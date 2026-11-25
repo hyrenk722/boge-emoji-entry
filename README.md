@@ -1,8 +1,8 @@
 # Your Agent in One Emoji
 
-[![Competition](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
-[![Rank](https://make.fun/badge/hyrenk722/boge-emoji-entry/rank.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
-[![Reward](https://make.fun/badge/hyrenk722/boge-emoji-entry/reward.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
+[![make.fun · u-boge-your-agent-in-one-emoji-db30c1e4](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4?utm_source=github&utm_medium=readme&utm_campaign=u-boge-your-agent-in-one-emoji-db30c1e4)
+[![rank](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4/hyrenk722/boge-emoji-entry/rank.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-boge-your-agent-in-one-emoji-db30c1e4)
+[![reward](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4/hyrenk722/boge-emoji-entry/reward.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4?utm_source=github&utm_medium=readme&utm_campaign=u-boge-your-agent-in-one-emoji-db30c1e4)
 
 ## The entry
 
